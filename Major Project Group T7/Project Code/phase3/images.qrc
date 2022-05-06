@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>pencil_icon.png</file>
+        <file>line_icon.png</file>
+        <file>circle_icon1.png</file>
+        <file>cancel_icon.png</file>
+        <file>delete_icon.png</file>
+        <file>Folder-Group-White-icon.png</file>
+        <file>group_icon.png</file>
+        <file>open_icon.png</file>
+        <file>pick_tool_icon.png</file>
+        <file>rectangle_icon.png</file>
+        <file>save_icon.png</file>
+        <file>ungroup_icon.png</file>
+        <file>resize_icon.png</file>
+        <file>add_new_icon.png</file>
+        <file>insert_image_icon.png</file>
+        <file>page-icon.png</file>
+        <file>save.png</file>
+        <file>open.png</file>
+        <file>clear_icon.png</file>
+        <file>gaseous1.jpg</file>
+        <file>mole1.png</file>
+        <file>atomic1.png</file>
+        <file>bodyCentered_solid.png</file>
+        <file>bohr_model.png</file>
+        <file>faceCentered_solid.png</file>
+        <file>hexagonal_closed.png</file>
+        <file>periodic_table.jpg</file>
+        <file>periodic1_imp_formula.jpg</file>
+        <file>Methylamine.png</file>
+        <file>methylAlcohol.png</file>
+        <file>methane.png</file>
+        <file>formicAcid.jpeg</file>
+        <file>formaldehyde.png</file>
+        <file>ether.png</file>
+        <file>diethylEther.png</file>
+        <file>acetone.png</file>
+        <file>chemistry_icon.png</file>
+        <file>../../Users/rahul/Downloads/board2.png</file>
+        <file>board2.png</file>
+        <file>whiteBoard.png</file>
+        <file>image1.jpg</file>
+    </qresource>
+</RCC>
